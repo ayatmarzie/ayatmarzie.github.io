@@ -11,7 +11,12 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
+# RESEARCH INTERESTS
+**Artificial intelligence**:  Data mining, Machine Learning
+**Algorithm**: Optimization of Algorithms, Complexity Theory, Graph Theory, Data Structures, Algorithm design
+# EDUCATION
+**University of Isfahan, Isfahan, Iran**
+
 ## Header 2
 ### Header 3
 
