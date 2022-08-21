@@ -33,7 +33,7 @@ Entrance Exam in 2018.
 - Given the score 4 out of 4 for 1 semester.
 
 # ENGLISH CERTIFICATION
-TOEFL : R:22, L:25, S:20, W:24, TOTAL:91 \\
+TOEFL : R:22, L:25, S:20, W:24, TOTAL:91  
 GRE: by October 3 
 
 ### Due to GRE I am not able to answer my emails fast. Thank you for your patience
