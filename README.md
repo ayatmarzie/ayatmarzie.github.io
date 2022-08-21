@@ -22,7 +22,7 @@ Overall GPA:16.75/20 equivalence to 3.46
 
 #Honors and Awards  
 
-\begin{itemize}- Ranked in the top 10% among all undergraduate students of computer science major in 2018.
+- Ranked in the top 10% among all undergraduate students of computer science major in 2018.
 
 - Ranked in the top 10% among more than 144,000 participants of National Universities
 Entrance Exam in 2018.
