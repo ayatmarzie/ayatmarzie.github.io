@@ -20,7 +20,7 @@ Overall GPA:16.75/20 equivalence to 3.46
 |**Databases**  | MySQL, PostgreSQL, Microsoft SQL  |
 |**Tools**  | Office (Word, Power point, Excel), LATEX,Jupiter notebook, QT,git |
 
-#Honors and Awards  
+# Honors and Awards  
 
 - Ranked in the top 10% among all undergraduate students of computer science major in 2018.
 
