@@ -8,12 +8,10 @@
 Bachelor of Science in Computer Science
 Overall GPA:16.75/20 equivalence to 3.46
 # TECHNICAL STRENGTHS
+| --- | --- |
 |**Computer Languages**  | C++, C, Python, MatLab |
 |**Operating Systems** | Windows,Linux |
 |**Databases**  | MySQL, PostgreSQL, Microsoft SQL  |
 |**Tools**  | Office (Word, Power point, Excel), LATEX,Jupiter notebook, QT,git |
 
-|Computer Languages | C++, C, Python, MatLab |
-| Tools | Office (Word, Power point, Excel), LATEX,Jupiter notebook, QT,git |
-| Operating Systems  | Windows,Linux  |
-| Databases  | MySQL, PostgreSQL, Microsoft SQL  |
+
