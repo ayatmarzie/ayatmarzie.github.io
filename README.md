@@ -1,12 +1,17 @@
 ## Marzieh Ayat
 
 # RESEARCH INTERESTS
-**Artificial intelligence**:  Data mining, Machine Learning
-**Algorithm**: Optimization of Algorithms, Complexity Theory, Graph Theory, Data Structures, Algorithm design
+**Artificial intelligence**:  Data mining, Machine Learning  
+
+**Algorithm**: Optimization of Algorithms, Complexity Theory, Graph Theory, Data Structures, Algorithm design  
+
 # EDUCATION
-**University of Isfahan, Isfahan, Iran**
-Bachelor of Science in Computer Science
-Overall GPA:16.75/20 equivalence to 3.46
+**University of Isfahan, Isfahan, Iran**  
+
+Bachelor of Science in Computer Science  
+
+Overall GPA:16.75/20 equivalence to 3.46  
+
 # TECHNICAL STRENGTHS
 | category  |  detail   |
 | --- | --- |
