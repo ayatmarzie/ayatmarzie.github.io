@@ -13,7 +13,7 @@ Overall GPA:16.75/20 equivalence to 3.46
 |**Databases**  | MySQL, PostgreSQL, Microsoft SQL  |
 |**Tools**  | Office (Word, Power point, Excel), LATEX,Jupiter notebook, QT,git |
 
-| First Header  | Second Header |
+|Computer Languages | C++, C, Python, MatLab |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| Operating Systems  | Windows,Linux  |
+| Databases  | MySQL, PostgreSQL, Microsoft SQL  |
