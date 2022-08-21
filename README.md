@@ -16,10 +16,10 @@ Overall GPA:16.75/20 equivalence to 3.46
 
 | category  |  detail   |
 | --- | --- |
-| **Computer Languages**  | C++, C, Python, MatLab |
-| **Operating Systems** | Windows,Linux |
+| **Computer Languages**  | C++/C, Python, Matlab |
+| **Operating Systems** | Windows, Linux |
 | **Databases**  | MySQL, PostgreSQL, Microsoft SQL  |
- |**Tools**  | Office (Word, Power point, Excel), LATEX,Jupiter notebook, QT,git |  
+ |**Tools**  | Office (Word, Power point, Excel), LATEX, Jupiter notebook, Qt,git |  
 
 # HONORS AND AWARDS  
 
@@ -37,4 +37,4 @@ Entrance Exam in 2018.
 TOEFL : R:22, L:25, S:20, W:24, TOTAL:91  
 GRE: by October 3 
 
-### Due to GRE I am not able to answer my emails fast. Thank you for your patience
+### Due to GRE exam, I am not able to answer my emails fast. Thank you for your patience. 
