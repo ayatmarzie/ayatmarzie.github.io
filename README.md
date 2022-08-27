@@ -38,6 +38,6 @@ TOEFL : R:22, L:25, S:20, W:24, TOTAL:91
 GRE: by October 3 
 
 
-For more detail, you can see my [Curriculum Vitae ]([https://link-url-here.org](https://github.com/ayatmarzie/ayatmarzie.github.io/raw/main/Ayat_CV.pdf)) and [transcripts]([https://link-url-here.org](https://github.com/ayatmarzie/ayatmarzie.github.io/raw/main/transcription%20marzieh%20ayat.pdf))
+For more detail, you can see my [Curriculum Vitae ]([https://link-url-here.org](https://github.com/ayatmarzie/ayatmarzie.github.io/raw/main/Ayat_CV.pdf)) and [transcripts]([https://link-url-here.org](https://github.com/ayatmarzie/ayatmarzie.github.io/raw/main/transcription%20marzieh%20ayat.pdf))  
 if you have any question please contact me at ayat.marzie@gmail.com
 ### Due to GRE exam, I am not able to answer my emails fast. Thank you for your patience. 
