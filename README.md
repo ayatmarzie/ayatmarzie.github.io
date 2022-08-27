@@ -31,7 +31,7 @@ Overall GPA:16.75/20 equivalence to 3.46
 
 Three separately projects are available:  
 1. [The first project](https://github.com/ayatmarzie/airlinemanager) is a practice for scheduling in operating systems .  
-2. [The second project] (https://github.com/ayatmarzie/OS_secondproject_senderReciever) is a practice for synchronization in operating systems.  
+2. [The second project](https://github.com/ayatmarzie/OS_secondproject_senderReciever) is a practice for synchronization in operating systems.  
 3. [The third project](https://github.com/ayatmarzie/memorymanagement) is a practice for memory management in operating systems .  
 - The first project is a time manager for planes take off. There are several policies manage the priority based on fuel or time.  
 - The second project is similar to producer-consumer problem. no QT version of semaphores or other features is used.  
