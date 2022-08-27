@@ -12,7 +12,7 @@ Bachelor of Science in Computer Science
 
 Overall GPA:16.75/20 equivalence to 3.46    
 
-# RESEARCH EXPERIANCE   
+# RESEARCH EXPERIANCE  
 ##[Compiler](https://github.com/ayatmarzie/decaf)
 
 | C++ |  Prof. Elham Esmaeeli   |
