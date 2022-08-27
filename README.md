@@ -22,13 +22,14 @@ Overall GPA:16.75/20 equivalence to 3.46
 - It has two sections:
    - Lexis Analyzer - also known as scanner.
    - Semantic Analyzer - also known as parser.
-- The compiler is for a semi-C language called Decaf. More information is available [here] (https://w3.cs.jmu.edu/lam2mo/cs630_2016_01/files/decaf_ref.pdf)
+- The compiler is for a semi-C language called Decaf. More information is available [here](https://w3.cs.jmu.edu/lam2mo/cs630_2016_01/files/decaf_ref.pdf)
 - ersion C++11 or higher is needed to compile this code.  
 
 ##Operating Systems
 
 | C++ |  Prof. Elham Esmaeeli   |
 | --- | --- |
+|     |     |
 
 Three separately projects are available:  
 1. [The first project](https://github.com/ayatmarzie/airlinemanager) is a practice for scheduling in operating systems .  
@@ -43,6 +44,7 @@ Three separately projects are available:
 
 |python | Prof. M.Alambardar |
 | --- | --- |
+|     |     |
 
 - A socket programming code which connects two systems and help them to communicate with each
 other.
@@ -56,6 +58,7 @@ it via terminal(Linux).
 
 |python | Prof. Z.Moslehi |
 | --- | --- |
+|     |     |
 
 - A solution for [traveling salesman](https://github.com/ayatmarzie/travellingSalesmanGA) problem using genetic algorithm.
 - It contains a python file of useful classes and methods like individuals, population, cities, and etc.
@@ -68,6 +71,7 @@ are permutations of cities and for each generation it repeats(the input contain 
 
 |python | Prof. Z.Moslehi |
 | --- | --- |
+|     |     |
 
 It has 3 phases and the first phase which is preprocessing had uploaded into two sections
 - The data for train was in an excel file.
