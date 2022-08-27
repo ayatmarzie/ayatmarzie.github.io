@@ -37,6 +37,7 @@ Three separately projects are available:
 - The second project is similar to producer-consumer problem. no QT version of semaphores or other features is used.  
 - The third project is for memory management and it can define the address of data in a hard drive, the page fault rates, page table hit, TLB hits.· Version C++11 or higher is needed to compile all the phases of this code.  
 - Good libraries has used especially for the second project, which is a practice for multi-thread programming.  
+
 ##[computer networks](https://github.com/ayatmarzie/multithreadcommunication)
 
 |python | Prof. M.Alambardar |
@@ -49,6 +50,7 @@ other.
 it via terminal(Linux).
 - Only one computer can be used and the consul log can communicate with the terminal.
 - It is two way communication and each of the consul log and terminal can both send and receive data.  
+
 ##Artificial Intelligence
 
 |python | Prof. Z.Moslehi |
