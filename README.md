@@ -97,4 +97,4 @@ GRE: by October 3
 
 For more detail, you can see my [Curriculum Vitae ](https://github.com/ayatmarzie/ayatmarzie.github.io/raw/main/Ayat_CV.pdf) and [transcripts](https://github.com/ayatmarzie/ayatmarzie.github.io/raw/main/transcription%20marzieh%20ayat.pdf).  
 If you have any question please contact me at ayat.marzie@gmail.com .
-### Due to GRE exam, I am not able to answer my emails fast. Thank you for your patience. 
+
